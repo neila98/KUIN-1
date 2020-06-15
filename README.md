@@ -1,2 +1,2 @@
 # KUIN
-Project Web Technology course
+ Project Web Technology course
